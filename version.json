@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.6.0",
+  "latest_version": "1.7.0",
   "download_url": "https://github.com/asavin12/update/raw/refs/heads/main/main.exe",
-  "release_notes": "- Sửa lỗi treo khi dịch ảnh lần thứ hai.\n- Cải thiện logic khởi động Anki.\n- Thêm tính năng tự động cập nhật mới!"
+  "release_notes": "- Sửa lỗi phát âm thanh.\n- Cải thiện logic khởi động Anki.\n- Thêm tính năng tự động cập nhật mới!"
 }
+
 
 
 
